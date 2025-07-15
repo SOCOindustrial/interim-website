@@ -1,9 +1,17 @@
+<head>
+<title>SOCO INDUSTRIAL</title>
+</head>
+
 <p align="center">
   <img width="350" src="CompanyLogo.jpg">
  </p>
 
 # SOCO INDUSTRIAL
-We are going out of business. Liquidating all assets, everything must go. See something you want? Give us a call or text: <a href="tel:6153542275">(615) 354-2275</a></p>
+We are going out of business. Liquidating all assets, everything must go. 
+
+See something you want? 
+
+Give us a call or text: <a href="tel:6153542275">(615) 354-2275</a></p>
 
 # Assets for sale
 <a href="https://nashville.craigslist.org/hvo/d/nashville-60kw-diesel-generator/7862259578.html" target="_blank" rel="noopener noreferrer"><font color="blue">60kW Diesel Generator</font></a>

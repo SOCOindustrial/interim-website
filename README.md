@@ -10,7 +10,7 @@ See something you want?
 Give us a call or text: <a href="tel:6153542275">(615) 354-2275</a>
 
 # FOR SALE
-<a href="https://nashville.craigslist.org/hvo/d/nashville-2009-freightliner-mt55/7867776414.html" target="_blank" rel="noopener noreferrer"><font color="blue">2009 Freightliner MT55</font></a>
+<a href="https://nashville.craigslist.org/hvo/d/nashville-2009-freightliner-mt55/7867778324.html" target="_blank" rel="noopener noreferrer"><font color="blue">2009 Freightliner MT55</font></a>
 
 <a href="https://nashville.craigslist.org/hvo/d/nashville-60kw-diesel-generator/7862259578.html" target="_blank" rel="noopener noreferrer"><font color="blue">60kW Diesel Generator</font></a>
 
